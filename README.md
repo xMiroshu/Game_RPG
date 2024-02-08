@@ -15,6 +15,7 @@ It is a simple Console RPG with basic features such as:
 
 **Getting Started**
 
+    It is IMPORTANT to run Visual Studio as an administrator because the SAVE file will be saved in the location  C:\
     1. Clone the repository to your local machine.
     2. Cd into the application directory where the AppName.sln exist.
     3. Open the application using Open/Start AppName.sln.
