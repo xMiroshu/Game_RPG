@@ -59,7 +59,7 @@ namespace Game_RPG.StructureClass
 
                             case 4:
                                 {
-                                    Console.WriteLine("Podobno na południowym zachodzie znajduje się dziwna jaskinia, podobno została odkryta przypadkiem przez Maga Trosika.");
+                                    Console.WriteLine("Podobno na południowym zachodzie znajduje się dziwna jaskinia, podobno została odkryta przypadkiem przez Maga Derudina.");
                                     Console.ReadLine();
                                 }
                                 break;
@@ -103,7 +103,7 @@ namespace Game_RPG.StructureClass
 
                             case 4:
                                 {
-                                    Console.WriteLine("Apparently there is a strange cave in the southwest, supposedly discovered by accident by the Mage Trosik.");
+                                    Console.WriteLine("Apparently there is a strange cave in the southwest, supposedly discovered by accident by the Mage Derudina.");
                                     Console.ReadLine();
                                 }
                                 break;
